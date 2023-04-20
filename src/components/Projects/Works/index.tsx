@@ -17,7 +17,7 @@ export function Works() {
             <span>{work.subTitle}</span>
             <p>{work.description}</p>
             <ul>
-              <h3>Ferramentas usadas</h3>
+              <h3></h3>
               {work.tags.map(tag => (
                 <img key={tag.name} src={tag.icon} alt={tag.name} />
               ))}
