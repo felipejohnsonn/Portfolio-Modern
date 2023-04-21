@@ -65,6 +65,12 @@ const cardSkills = [
     title: 'MySQL',
     img: '/skills/mysql.png',
     color: '#DAA520'
+  },
+{
+    id: 12,
+    title: 'Python',
+    img: '/skills/python.svg',
+    color: '#fefe01'
   }
 ]
 
