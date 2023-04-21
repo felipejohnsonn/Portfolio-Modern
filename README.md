@@ -46,7 +46,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
       <a href="https://github.com/felipejohnsonn">
         <img src="https://avatars.githubusercontent.com/u/128244805?s=96&v=4" width="100px;" /><br>
         <sub>
-          <b>Evander Inácio</b>
+          <b>Felipe Johnson</b>
         </sub>
       </a>
     </td>
