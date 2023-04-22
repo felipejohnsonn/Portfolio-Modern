@@ -3,7 +3,7 @@ export const defaultTheme = {
   background: "#121216",
   backgroundSecond: "#121016",
   firstColor: "#00d9ff",
-  secondColor: "#C0C0C0",
+  secondColor: "	#696969",
   textPrimary: "#d6d6dc",
   textSecondary: "#a9a9a9",
   hover: "rgb(0, 217, 255, 0.7)",
