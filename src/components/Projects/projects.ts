@@ -52,7 +52,7 @@ const projects = [
   },
   {
     id: 4,
-    url: 'pokedex',
+    url: 'supermario',
     img: '/projects/supermario/mario.png',
     title: 'Super Mario',
     type: "Website",
@@ -67,6 +67,27 @@ const projects = [
     ],
     print: [
       {name: 'Home', img:'/projects/supermario/mario.png'},
+
+    ],
+    video: ''
+  },
+  {
+    id: 5,
+    url: 'spotifyclone',
+    img: '/projects/spotifyclone/spotify.webp',
+    title: 'SpotifyClone',
+    type: "Website",
+    icon: "/projects/spotifyclone/spotify-2.svg",
+    github: 'https://github.com/felipejohnsonn/SpotifyClone',
+    web: 'https://spotify-clonee-pi.vercel.app/',
+    description: 'apenas um clone da pagina web do Spotify',
+    tags: [
+      {name: "Html", icon: '/skills/html.svg' },
+      {name: "JavaScript", icon: '/skills/javascript.svg' },
+      {name: "css", icon: '/skills/css.svg' },
+    ],
+    print: [
+      {name: 'Home', img:'https://media.discordapp.net/attachments/1088112544905969736/1099114491347750912/image.png?width=1058&height=595'},
 
     ],
     video: ''
