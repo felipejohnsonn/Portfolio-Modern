@@ -95,7 +95,7 @@ const projects = [
   {
     id: 5,
     url: 'Netflix Clone',
-    img: '/projects/netflix/home.webp',
+    img: '/projects/netflix/home.png',
     title: 'Netflix Clone',
     type: "Website",
     icon: "/projects/netflix/icon.webp",
