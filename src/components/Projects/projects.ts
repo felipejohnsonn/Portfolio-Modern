@@ -109,8 +109,6 @@ const projects = [
     ],
     print: [
       {name: 'Home', img:'https://user-images.githubusercontent.com/128244805/234773510-84a6d446-9b3e-4f3d-8b12-7378e02e55be.png'},
-      {name: '2', img:'/projects/netflix/2.png'},
-      {name: '3', img:'/projects/netflix/3.png'},
 
     ],
     video: ''
