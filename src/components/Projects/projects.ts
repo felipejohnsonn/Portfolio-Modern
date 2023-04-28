@@ -126,6 +126,8 @@ const projects = [
     tags: [
       {name: "React", icon: '/skills/react.svg' },
       {name: "TypeScript", icon: '/skills/typescript.svg' },
+      {name: "Redux", icon: '/skills/redux.svg' },
+      {name: "Next.js", icon: '/skills/nextjs.svg' },
       {name: "Html", icon: '/skills/html.svg' },
       {name: "Css", icon: '/skills/css.svg' },
       {name: "Tailwind CSS", icon: '/skills/tailwindcss.svg' },
