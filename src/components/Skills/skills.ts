@@ -77,6 +77,12 @@ const cardSkills = [
     title: 'Tailwind CSS',
     img: '/skills/tailwindcss.svg',
     color: '#00BFFF'
+  },
+  {
+    id: 14,
+    title: 'Vite',
+    img: '/skills/vite.svg',
+    color: '#A020F0'
   }
 ]
 
