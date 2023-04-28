@@ -73,7 +73,7 @@ const projects = [
   },
   {
     id: 5,
-    url: 'spotifyclone',
+    url: 'spotify clone',
     img: '/projects/spotifyclone/spotify.webp',
     title: 'SpotifyClone',
     type: "Website",
@@ -93,7 +93,7 @@ const projects = [
     video: ''
   },
   {
-    id: 5,
+    id: 6,
     url: 'Netflix Clone',
     img: '/projects/netflix/home.png',
     title: 'Netflix Clone',
@@ -109,6 +109,31 @@ const projects = [
     ],
     print: [
       {name: 'Home', img:'https://user-images.githubusercontent.com/128244805/234773510-84a6d446-9b3e-4f3d-8b12-7378e02e55be.png'},
+
+    ],
+    video: ''
+  },
+  {
+    id: 7,
+    url: 'Nike store Clone',
+    img: 'https://media.discordapp.net/attachments/1088112544905969736/1101270847051808768/image.png?width=1058&height=595',
+    title: 'Nike Store Clone',
+    type: "Website",
+    icon: "https://nike-storee.vercel.app/static/media/logo.aa3419b8b2c6dda5adad.png",
+    github: 'https://github.com/felipejohnsonn/nikeStore',
+    web: 'https://nike-storee.vercel.app/',
+    description: 'Nike store page clone',
+    tags: [
+      {name: "React", icon: '/skills/react.svg' },
+      {name: "TypeScript", icon: '/skills/typescript.svg' },
+      {name: "Html", icon: '/skills/html.svg' },
+      {name: "Css", icon: '/skills/css.svg' },
+      {name: "Tailwind CSS", icon: '/skills/tailwindcss.svg' },
+    ],
+    print: [
+      {name: 'Home', img:'https://media.discordapp.net/attachments/1088112544905969736/1101270847051808768/image.png?width=1058&height=595'},
+      {name: 'page2', img:'https://media.discordapp.net/attachments/1088112544905969736/1101270918912819292/image.png?width=1058&height=595'},
+      {name: 'page3', img:'https://media.discordapp.net/attachments/1088112544905969736/1101270986168488037/image.png?width=1058&height=595'},
 
     ],
     video: ''
