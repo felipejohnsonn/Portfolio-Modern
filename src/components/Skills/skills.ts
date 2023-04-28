@@ -85,7 +85,7 @@ const cardSkills = [
     color: '#A020F0'
   },,
   {
-    id: 14,
+    id: 15,
     title: 'Firebase',
     img: '/skills/firebase-icon.svg',
     color: '#FFD700'
