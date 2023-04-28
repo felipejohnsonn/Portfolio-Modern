@@ -78,24 +78,6 @@ const cardSkills = [
     img: '/skills/tailwindcss.svg',
     color: '#00BFFF'
   },
-  {
-    id: 14,
-    title: 'Vite',
-    img: '/skills/vite.svg',
-    color: '#A020F0'
-  },
-  {
-    id: 15,
-    title: 'Lua',
-    img: '/skills/lua-icon.svg',
-    color: '#0000CD'
-  },
-  {
-    id: 16,
-    title: 'Git',
-    img: '/skills/git.svg',
-    color: '#FF4500'
-  }
 ]
 
 export default cardSkills
