@@ -87,7 +87,7 @@ const cardSkills = [
   {
     id: 15,
     title: 'Lua',
-    img: '/skills/lua.svg',
+    img: '/skills/lua-icon.svg',
     color: '#4682B4'
   },
   {
