@@ -91,6 +91,12 @@ const cardSkills = [
     img: '/skills/angular-icon.svg',
     color: '#C30130'
   },
+{
+    id: 15,
+    title: 'Svelte',
+    img: '/skills/SvelteLogo.svg',
+    color: '#FD3F00'
+  },
 ]
 
 export default cardSkills
