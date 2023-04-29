@@ -84,6 +84,13 @@ const cardSkills = [
     img: '/skills/bootstrap-icon.svg',
     color: '#7952B3'
   },
+
+{
+    id: 14,
+    title: 'Angular',
+    img: '/skills/angular-icon.svg',
+    color: '#C30130'
+  },
 ]
 
 export default cardSkills
