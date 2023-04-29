@@ -75,7 +75,7 @@ const projects = [
     id: 5,
     url: 'spotify clone',
     img: '/projects/spotifyclone/spotify.webp',
-    title: 'SpotifyClone',
+    title: 'Spotify Clone',
     type: "Website",
     icon: "/projects/spotifyclone/spotify-2.svg",
     github: 'https://github.com/felipejohnsonn/SpotifyClone',
