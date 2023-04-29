@@ -25,7 +25,7 @@ export function About() {
         <div className="aboutContent">
           <div className="aboutDescription">
             <p>
-            Meu nome é Felipe e eu sou um apaixonado por tecnologia que decidiu trilhar o caminho da programação. Sou um desenvolvedor Front-End. que vive em Caucaia-CE, fiz cursos na Alura em desenvolvimento web.
+            Meu nome é Felipe e eu sou um apaixonado por tecnologia que decidiu trilhar o caminho da programação. Sou um desenvolvedor Front-End. que vive em Caucaia-CE, fiz alguns cursos na Alura em desenvolvimento web.
             </p>
             <p>
               Meu interesse e primeiro contato com desenvolvimento web começou
