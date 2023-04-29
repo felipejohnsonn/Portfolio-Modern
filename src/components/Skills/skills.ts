@@ -60,11 +60,11 @@ const cardSkills = [
     img: '/skills/nodejs.svg',
     color: '#9ACD32'
   },
-  {
-    id: 11,
-    title: 'MySQL',
-    img: '/skills/mysql.png',
-    color: '#DAA520'
+   {
+    id: 13,
+    title: 'Tailwind CSS',
+    img: '/skills/tailwindcss.svg',
+    color: '#00BFFF'
   },
 {
     id: 12,
