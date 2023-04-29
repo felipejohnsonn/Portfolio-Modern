@@ -27,7 +27,7 @@ export function HomeHero() {
           </h2>
 
           <ButtonPrimary>
-            <Link href={'#projects'}>
+            <Link href={'#about'}>
               <a>
                 <b>Conheça meu portfólio </b>
                 <PaperPlaneRight
