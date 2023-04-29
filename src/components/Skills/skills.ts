@@ -80,9 +80,9 @@ const cardSkills = [
   },
 {
     id: 13,
-    title: 'Bootstrap',
-    img: '/skills/bootstrap-icon.svg',
-    color: '#7952B3'
+    title: 'Node JS',
+    img: '/skills/nodejs.svg',
+    color: '#6FA75F'
   },
 
 {
