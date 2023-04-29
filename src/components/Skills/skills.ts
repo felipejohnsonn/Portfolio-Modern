@@ -72,6 +72,12 @@ const cardSkills = [
     img: '/skills/python.svg',
     color: '#fefe01'
   },
+{
+    id: 13,
+    title: 'JQuery',
+    img: '/skills/jquery-icon.svg',
+    color: '#0868AC'
+  },
 ]
 
 export default cardSkills
