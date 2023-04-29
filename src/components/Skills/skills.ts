@@ -72,12 +72,6 @@ const cardSkills = [
     img: '/skills/python.svg',
     color: '#fefe01'
   },
-  {
-    id: 13,
-    title: 'Tailwind CSS',
-    img: '/skills/tailwindcss.svg',
-    color: '#00BFFF'
-  },
 ]
 
 export default cardSkills
