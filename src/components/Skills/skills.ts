@@ -2,7 +2,7 @@
 const cardSkills = [
   {
     id: 1,
-    title: 'HTML',
+    title: 'HTML5',
     img: '/skills/html.svg',
     color: '#fc4503'
   },
