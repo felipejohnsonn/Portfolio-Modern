@@ -78,6 +78,12 @@ const cardSkills = [
     img: '/skills/jquery-icon.svg',
     color: '#0868AC'
   },
+{
+    id: 13,
+    title: 'Bootstrap',
+    img: '/skills/bootstrap-icon.svg',
+    color: '#7952B3'
+  },
 ]
 
 export default cardSkills
