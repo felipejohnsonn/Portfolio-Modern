@@ -56,9 +56,9 @@ const cardSkills = [
   },
   {
     id: 10,
-    title: 'Node JS',
-    img: '/skills/nodejs.svg',
-    color: '#9ACD32'
+    title: 'Vue',
+    img: '/skills/vue.png',
+    color: '#41B883'
   },
    {
     id: 13,
