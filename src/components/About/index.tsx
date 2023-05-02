@@ -17,7 +17,7 @@ export function About() {
         <div className="AboutImg">
           <img
             className="AboutImg"
-            src="/felipe.png"
+            src="https://instagram.ffor1-2.fna.fbcdn.net/v/t51.2885-19/344124458_990962592283338_3113260750401638253_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.ffor1-2.fna.fbcdn.net&_nc_cat=106&_nc_ohc=EANhu1BLAIsAX93xfbz&edm=ACWDqb8BAAAA&ccb=7-5&oh=00_AfBmRzUgXeoi9DH0qKC2ZlsWxHHRVPAg6lSvJnyB69Qzsw&oe=645690AB&_nc_sid=1527a3"
             alt="Imagem de perfil felipe"
           />
         </div>
