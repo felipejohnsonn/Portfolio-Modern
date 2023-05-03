@@ -56,14 +56,14 @@ const cardSkills = [
   },
   {
     id: 10,
-    title: 'Vue',
-    img: '/skills/vue.png',
+    title: 'Angular',
+    img: '/skills/angular-icon.svg',
     color: '#41B883'
   },
    {
     id: 13,
-    title: 'Tailwind CSS',
-    img: '/skills/tailwindcss.svg',
+    title: 'Node JS',
+    img: '/skills/nodejs.svg',
     color: '#00BFFF'
   },
 {
@@ -73,30 +73,6 @@ const cardSkills = [
     color: '#fefe01'
   },
 {
-    id: 13,
-    title: 'JQuery',
-    img: '/skills/jquery-icon.svg',
-    color: '#0868AC'
-  },
-{
-    id: 13,
-    title: 'Node JS',
-    img: '/skills/nodejs.svg',
-    color: '#6FA75F'
-  },
-
-{
-    id: 14,
-    title: 'Angular',
-    img: '/skills/angular-icon.svg',
-    color: '#C30130'
-  },
-{
-    id: 15,
-    title: 'Svelte',
-    img: '/skills/SvelteLogo.svg',
-    color: '#FD3F00'
-  },
 ]
 
 export default cardSkills
