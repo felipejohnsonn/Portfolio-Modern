@@ -2,9 +2,9 @@
 export const defaultTheme = {
   background: "#121216",
   backgroundSecond: "#121016",
-  firstColor: "#FFFFFF",
-  secondColor: "	#696969",
-  textPrimary: "#FFFFFF",
+  firstColor: "#00d9ff",
+  secondColor: "#FFFFFF",
+  textPrimary: "#d6d6dc",
   textSecondary: "#a9a9a9",
   hover: "rgb(0, 217, 255, 0.7)",
   hoverSecond: "rgb(80, 82, 224, 0.7)",
