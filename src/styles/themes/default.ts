@@ -4,7 +4,7 @@ export const defaultTheme = {
   backgroundSecond: "#121016",
   firstColor: "#00d9ff",
   secondColor: "	#696969",
-  textPrimary: "#d6d6dc",
+  textPrimary: "#FFFFFF",
   textSecondary: "#a9a9a9",
   hover: "rgb(0, 217, 255, 0.7)",
   hoverSecond: "rgb(80, 82, 224, 0.7)",
