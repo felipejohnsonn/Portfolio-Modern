@@ -72,7 +72,6 @@ const cardSkills = [
     img: '/skills/python.svg',
     color: '#fefe01'
   },
-{
 ]
 
 export default cardSkills
