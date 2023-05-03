@@ -2,7 +2,7 @@
 export const defaultTheme = {
   background: "#121216",
   backgroundSecond: "#121016",
-  firstColor: "#00d9ff",
+  firstColor: "#FFFFFF",
   secondColor: "	#696969",
   textPrimary: "#FFFFFF",
   textSecondary: "#a9a9a9",
