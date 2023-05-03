@@ -58,13 +58,13 @@ const cardSkills = [
     id: 10,
     title: 'Angular',
     img: '/skills/angular-icon.svg',
-    color: '#41B883'
+    color: '#FF0C0B'
   },
    {
     id: 13,
     title: 'Node JS',
     img: '/skills/nodejs.svg',
-    color: '#00BFFF'
+    color: '#3D873A'
   },
 {
     id: 12,
