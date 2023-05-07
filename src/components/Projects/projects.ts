@@ -55,7 +55,7 @@ const projects = [
     url: 'supermario',
     img: '/projects/supermario/mario.png',
     title: 'Super Mario',
-    type: "Game",
+    type: "Website Game",
     icon: "/projects/supermario/super-mario.svg",
     github: 'https://github.com/felipejohnsonn/super-mario',
     web: 'https://super-mario-one.vercel.app/',
