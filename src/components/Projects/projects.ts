@@ -145,7 +145,7 @@ const projects = [
     url: 'Gamex - eSports Template Free',
     img: 'https://user-images.githubusercontent.com/128244805/236636667-80c32805-abe3-4a07-8dc1-f8b1e6e97f38.png',
     title: 'Gamex eSports',
-    type: "Website",
+    type: "Website eSports",
     icon: "https://th.bing.com/th/id/R.0ca41046c1244af3207c68ad97e5edc6?rik=MQ5HMhq7y3WQNA&pid=ImgRaw&r=0",
     github: 'https://github.com/felipejohnsonn/Gamex-template',
     web: 'https://gamex-template.vercel.app/',
