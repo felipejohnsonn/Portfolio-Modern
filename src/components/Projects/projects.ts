@@ -74,7 +74,7 @@ const projects = [
   {
     id: 5,
     url: 'spotify clone',
-    img: '/projects/spotifyclone/spotify.webp',
+    img: 'https://camo.githubusercontent.com/e07b99e46c3912152be50590a5bf921e09d07c269f098b489282d953fec22b78/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f313038383131323534343930353936393733362f313039393131343439313334373735303931322f696d6167652e706e673f77696474683d31303538266865696768743d353935',
     title: 'Spotify Clone',
     type: "Website Clone",
     icon: "/projects/spotifyclone/spotify-2.svg",
